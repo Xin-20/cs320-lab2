@@ -1,1 +1,3 @@
-# cs320-lab2
+# Super soup Inc.
+
+We solve all your problems, guaranteed!
